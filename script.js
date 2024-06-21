@@ -23,6 +23,6 @@ function cekKhodam(name, birthdate) {
         <p class="text-xl font-bold">${dateVal}</p>
         <p class="text-xl ">Khodam Anda adalah :</p>
         <p class="text-xl font-bold mb-3">${khodam.nama_khodam}</p>
-        <img class="max-w-[50%]" src="assets/img/${khodam.gambar_khodam}" alt="${khodam.gambar_khodam}">
+        <img class="w-64 pb-3" src="assets/img/${khodam.gambar_khodam}" alt="${khodam.gambar_khodam}">
     `;
 }
