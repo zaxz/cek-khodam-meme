@@ -224,5 +224,10 @@ const khodams = [
     nama_khodam: "Zaki Indomie",
     gambar_khodam: "zakiindomie.jpg",
   },
+  {
+    id: 47,
+    nama_khodam: "Kevin Lontong",
+    gambar_khodam: "kevinlontong.jpg",
+  },
 ];
 export default khodams;
