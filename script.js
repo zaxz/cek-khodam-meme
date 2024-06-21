@@ -2,7 +2,7 @@ import khodams from "./khodams.js";
 
 document.getElementById("form").addEventListener("submit", function (event) {
   event.preventDefault();
-  new Audio("/assets/sfx/vine-boom.mp3").play()
+  new Audio("assets/sfx/vine-boom.mp3").play()
   let name = document.getElementById("name").value;
   let birthdate = document.getElementById("birthdate").value;
   let khodamResult = cekKhodam(name, birthdate);
