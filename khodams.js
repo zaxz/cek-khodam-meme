@@ -169,5 +169,60 @@ const khodams = [
     nama_khodam: "Jaki Curut",
     gambar_khodam: "jaki.jpg",
   },
+  {
+    id: 36,
+    nama_khodam: "Agus Fried Chicken",
+    gambar_khodam: "agusfc.jpg",
+  },
+  {
+    id: 37,
+    nama_khodam: "Ambatukam Sigma",
+    gambar_khodam: "ambatukamsigma.jpg",
+  },
+  {
+    id: 38,
+    nama_khodam: "Rio Anjim",
+    gambar_khodam: "anjim.jpg",
+  },
+  {
+    id: 39,
+    nama_khodam: "Ilham Cukurukuk",
+    gambar_khodam: "cukurukuk.jpg",
+  },
+  {
+    id: 40,
+    nama_khodam: "David Vijay",
+    gambar_khodam: "davidvijay.jpg",
+  },
+  {
+    id: 41,
+    nama_khodam: "Deden Tasikmalaya",
+    gambar_khodam: "dedentasikmalaya.jpg",
+  },
+  {
+    id: 42,
+    nama_khodam: "Elang Kecewa Berat",
+    gambar_khodam: "elang.jpg",
+  },
+  {
+    id: 43,
+    nama_khodam: "Faris Renungkan",
+    gambar_khodam: "renungkan.jpg",
+  },
+  {
+    id: 44,
+    nama_khodam: "Rian Batagor",
+    gambar_khodam: "rianbatagor.jpg",
+  },
+  {
+    id: 45,
+    nama_khodam: "Yusril Kecap",
+    gambar_khodam: "yusril.jpg",
+  },
+  {
+    id: 46,
+    nama_khodam: "Zaki Indomie",
+    gambar_khodam: "zakiindomie.jpg",
+  },
 ];
 export default khodams;
